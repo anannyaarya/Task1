@@ -39,12 +39,12 @@ This repository contains the solution to **Task 1** of the AI & ML Internship, f
 
 
 ## Repository Structure
-Task-1-Preprocessing/
-├── Titanic-Dataset.csv # Original dataset
-├── titanic_cleaned.csv # Cleaned dataset
-├── Task1.ipynb # Complete code notebook
-├── boxplot_outliers.png # Outlier visualization
-└── README.md # Task summary and steps
+Task-1
+- Titanic-Dataset.csv # Original dataset
+- titanic_cleaned.csv # Cleaned dataset
+- Task1.ipynb # Complete code notebook
+- boxplot_outliers.png # Outlier visualization
+- README.md # Task summary and steps
 
 The data is now cleaned, scaled, and ready to be used for training classification or regression ML models such as Logistic Regression, SVMs, or Decision Trees.
 This task built a strong foundation in data cleaning and preprocessing, which is essential for real-world machine learning pipelines.
